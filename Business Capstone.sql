@@ -2,7 +2,7 @@
 -- Creating DABASE
 -- DROP DATABASE IF EXISTS Covid_Project;
 CREATE DATABASE Business_Capstone;
-USE Business_Capstone;
+USE Business_Capstone; 
 
 -- Imported data by right clicking on each table and selecting Table Data Import Wizard
 
